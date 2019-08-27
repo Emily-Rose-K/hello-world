@@ -1,3 +1,4 @@
 # hello-world
 beginning of my adventure
-havn't touched this thing in a while
+haven't touched this thing in a while
+playing playing playing yada yada
